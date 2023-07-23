@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;1,100;1,300&display=swap');
+/*
+font style de la page
+*/
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: blue;
+    color: white;
+}
+li{
+    display: inline;
+}
+/*
+heading styling
+*/
+h1{
+    
+    font-size: 25px;
+    background-color: aqua;
+    color: blue;
+}
+.pp{
+    background-image: url(https://gomycodelearn.blob.core.windows.net/assets/images/general/gomycodeLogo.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
